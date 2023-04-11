@@ -1,0 +1,13 @@
+{
+	"name": "HttpServer1",
+	"properties": {
+		"description": "GITHUB",
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/Lluis441/open-data",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
