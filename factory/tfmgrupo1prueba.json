@@ -1,0 +1,9 @@
+{
+	"name": "tfmgrupo1prueba",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a5b7f095-a3a2-456c-bfe8-a77689c299b0",
+		"tenantId": "c98fc2b4-77b5-4fc5-8821-b91b12293781"
+	}
+}
